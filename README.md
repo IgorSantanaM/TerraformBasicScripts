@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed:
    ```bash
   	terraform init
      ```
-2. Review and adjust variables in variables.tf and configurations in aws-instance-.tf to suit your AWS environment and requirements.
+2. Review and adjust variables in variables.tf and configurations in aws-instance-server_configure.tf to suit your AWS environment and requirements.
 
 3. Plan changes before applying:
     ```bash
