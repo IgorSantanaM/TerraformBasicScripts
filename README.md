@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/terraform-aws-scripts.git
+   git clone https://github.com/IgorSantanaM/TerraformBasicScripts.git
    ```
 2. Change into the directory:
    ```bash
