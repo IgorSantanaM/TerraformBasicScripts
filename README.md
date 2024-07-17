@@ -10,8 +10,8 @@ These instructions will help you get a copy of the project up and running on you
 
 Before you begin, ensure you have the following installed:
 
-- [Terraform](https://www.terraform.io/downloads.html) - version >= X.X.X
-- [AWS CLI](https://aws.amazon.com/cli/) - version >= X.X.X
+- [Terraform](https://www.terraform.io/downloads.html) - version >= 1.9.0
+- [AWS CLI](https://aws.amazon.com/cli/) - version >= 2.0.0
 - Configure AWS CLI with credentials (access key, secret key) that have appropriate permissions to manage AWS resources.
 
 ### Installing
