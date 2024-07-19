@@ -42,8 +42,8 @@ Before you begin, ensure you have the following installed:
     ```
 ### Destroying Infrastructure
 To tear down the infrastructure created by Terraform, you can run:
-   ``bash
+   ```bash
    terraform destroy
-      ```
+   ```
 ### Contributing
 Feel free to fork this repository, make changes, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
